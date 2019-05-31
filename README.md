@@ -55,4 +55,4 @@ Push below commands.
 `docker-compose run python ./manage.py collectstatic`
 
 ## Install
-`git clone `
+`git clone https://github.com/kenkono/docker_for_django.git`
